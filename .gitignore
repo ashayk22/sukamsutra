@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp scratch files at project root (generated during dev)
+*.png
+*.jpg
+!public/**/*.jpg
+!public/**/*.png
+*.log
+cand_*.jpg
+small_cand_*.jpg
+store_cand*.jpg
+img_bridal_1.jpg
+img_lehenga_1.jpg
+img_salwar_1.jpg
+img_saree_1.jpg
+thumb_*.jpg
+dl_photo-*.jpg
+test_*.jpg
+test_*.png
+ref_*.jpg
+arch_*.jpg
+clean_*.jpg
+hero_*.jpg
+hero_*.png
+verify_*.jpg
+verify_*.png
+zardozi_close.jpg
+prod_3_suit.jpg
+insta_pastel.jpg
+user_screenshot_arch.jpg
+user_arch_bottom.jpg
+complete_website.png
+desktop_full_page.png
